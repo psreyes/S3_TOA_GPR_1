@@ -41,4 +41,4 @@ This is a <b> guideline for mapping vegetation variables from TOA on Google Eart
 
 For <b> training and exporting customized models from ARTMO to GEE </b>, please follow the guidelines in https://github.com/msalinero/ARTMOtoGEE.git
 
-An alternative template workflow in Python to produce time series over multiple sites can be found in   
+A workflow in Python to produce <b> time series mapping </b> over a region of interest can be found in <a href="https://colab.research.google.com/github/daviddkovacs/Global-EVT-maps/blob/main/Main%20Python%20script.ipynb"> this link</a>   
